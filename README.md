@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx intro to c
+0x00. C - Hello, World
